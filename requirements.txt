@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+yfinance
+duckduckgo-search
+prometheus-fastapi-instrumentator
+pydantic
